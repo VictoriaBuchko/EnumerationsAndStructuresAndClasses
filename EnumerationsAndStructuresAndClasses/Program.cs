@@ -246,7 +246,7 @@
                 address: "Садовая",
                 phone: "12345678",
                 numberOfOrders: 10,
-                totalOrderAmount: 2000m,
+                totalOrderAmount: 2000,
                 status: ClientStatus.First
             );
             client.Print();
